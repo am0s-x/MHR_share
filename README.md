@@ -8,7 +8,7 @@ System requirements:
 
 Instructions:
 ------------------------------------------------
-1. Download "MHR.exe" (the application) https://github.com/am0s-x/MHR_beta/raw/main/MHR.exe
+1. Download "MHR.exe" (the application) https://github.com/am0s-x/MHR_share/raw/main/MHR.zip
 2. Open the application, it might take a while to be loaded
 3. Once it is loaded, enter the appropriate site #
 4. Enter card number
