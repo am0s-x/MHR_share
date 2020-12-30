@@ -32,6 +32,6 @@ Cautions:
 
 Known working domains:
 ------------------------------------------------
-@huskergaragedoorrepair.com
-@evidu.org
-@mainstreethost.company
+- @huskergaragedoorrepair.com
+- @evidu.org
+- @mainstreethost.company
