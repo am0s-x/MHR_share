@@ -1,9 +1,9 @@
 System requirements:
 ------------------------------------------------
-- Computer running Windows 7 or newer
-- .Net Framework 4.7.2 or newer
-- Internet Explorer 11
 - Internet connection
+- Computer running Windows 10
+- Internet Explorer 11
+- .Net Framework 4.7.2 or newer
 
 
 Instructions:
