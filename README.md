@@ -21,11 +21,11 @@ Instructions:
 
 Cautions:
 ------------------------------------------------
-- I am not a programmer, so the application is only usable and far from flawless.
+- I am not a programmer, the application is far from flawless, so it may crash unexpectedly for some reason.
 - Using a VPN is recommended, the husky site will ban IP addresses if they detect too much registration from the same IP.
 - Do not manually close any IE windows during each automated registration process.
 - It is normal that the application appears stuck (not responding) during an automated process.
-- In case the application quitted/stopped accidentally, open the Task Manager (right-click the taskbar then click Task Manager), then close any related processes and all remaining IE windows.
+- In case the application quitted/stopped accidentally, open the Task Manager (right-click the taskbar then click Task Manager), then close any related processes (e.g. MHR.exe) and all remaining IE windows.
 - If the husky site indicates that the email domain is not allowed, please manually open email-fake.com, select a new email domain (something looks like "@fakedomain.com"), copy-paste it into the application, close the application and re-run the automated registration processes.
 - Sometimes the husky site takes a long time to respond, so you may need to click the Submit button manually in case it happens.
 
@@ -37,6 +37,6 @@ Known working domains:
 - @mainstreethost.company
 
 
-Video:
+Demo Video:
 ------------------------------------------------
 https://drive.google.com/file/d/1iPRgFqzsPMWQyaMzcjA5WntSqvEitTvH/view?usp=sharing
