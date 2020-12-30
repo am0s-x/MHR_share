@@ -8,8 +8,8 @@ System requirements:
 
 Instructions:
 ------------------------------------------------
-1. Open "MHR.exe" (the application)
-2. Enter the appropriate site #
+1. Download and open "MHR.exe" (the application)
+2. Once it is loaded, enter the appropriate site #
 3. Enter card number
 4. Double check the side # and card # are correct
 5. Hit the "Run" button
@@ -25,4 +25,4 @@ Cautions:
 - Do not manually close any IE windows during each automated registration process.
 - It is normal that the application appears stuck (not responding) during an automated process.
 - In case the application quitted/stopped accidentally, open the Task Manager (right-click the taskbar then click Task Manager), then close any related processes and all remaining IE windows.
-- If the husky site indicates that the email domain is not allowed, please manually open email-fake.com, select a new email domain (e.g. "@fakedomain.com"), copy-paste it into the application, close the application and re-run the automated registration processes.
+- If the husky site indicates that the email domain is not allowed, please manually open email-fake.com, select a new email domain (something looks like "@fakedomain.com"), copy-paste it into the application, close the application and re-run the automated registration processes.
