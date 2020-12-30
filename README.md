@@ -8,14 +8,15 @@ System requirements:
 
 Instructions:
 ------------------------------------------------
-1. Download and open "MHR.exe" (the application)
-2. Once it is loaded, enter the appropriate site #
-3. Enter card number
-4. Double check the side # and card # are correct
-5. Hit the "Run" button
-6. Wait until the automated processes complete.
+1. Download "MHR.exe" (the application) https://github.com/am0s-x/MHR_beta/raw/main/MHR.exe
+2. Open the application, it might take a while to be loaded
+3. Once it is loaded, enter the appropriate site #
+4. Enter card number
+5. Double check the side # and card # are correct
+6. Hit the "Run" button
+7. Wait until the automated processes complete.
 (The application will launch two IE windows, open the registration and the email website, fill in all necessary registration info, check for a confirmation email, click the confirmation link, close all IE windows upon successful registration.)
-7. Repeat steps 2 to 6.
+8. Repeat steps 3 to 7.
 
 
 Cautions:
