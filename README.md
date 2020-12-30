@@ -3,7 +3,7 @@ System requirements:
 - Internet connection
 - Computer running Windows 10
 - Internet Explorer 11
-- .Net Framework 4.7.2 or newer
+- .Net Framework 4.7.2
 
 
 Instructions:
