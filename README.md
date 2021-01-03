@@ -30,13 +30,6 @@ Cautions:
 - Sometimes the husky site takes a long time to respond, so you may need to click the Submit button manually in case it happens.
 
 
-Known working domains:
-------------------------------------------------
-- @huskergaragedoorrepair.com
-- @evidu.org
-- @mainstreethost.company
-
-
 Demo Video:
 ------------------------------------------------
 https://drive.google.com/file/d/1iPRgFqzsPMWQyaMzcjA5WntSqvEitTvH/view?usp=sharing
